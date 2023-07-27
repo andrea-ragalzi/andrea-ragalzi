@@ -20,9 +20,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrea-ragalzi&langs_count=7&show_icons=true&locale=en&layout=compact" alt="andrea-ragalzi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrea-ragalzi&" alt="andrea-ragalzi" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andrea-ragalzi&show_icons=true&locale=en" alt="andrea-ragalzi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrea-ragalzi&" alt="andrea-ragalzi" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andrea-ragalzi" alt="andrea-ragalzi" /></a> </p>
 
