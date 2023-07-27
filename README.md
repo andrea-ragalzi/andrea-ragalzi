@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Vegarden](https://github.com/andrea-ragalzi/vegarden)
 
-- 🤝 I’m looking for help with [Vegarden](https://github.com/andrea-ragalzi/vegarden)
-
 - 📫 How to reach me **andrea.ragalzi.code@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
