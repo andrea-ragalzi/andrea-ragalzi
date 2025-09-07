@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrea Ragalzi</h1>
 <h3 align="center">Software & Web Developer</h3>
 
-- 🔭 I’m currently working on [Vegarden](https://github.com/andrea-ragalzi/vegarden)
+- 🔭 I’m currently working on [CHTL: The Lost Builder](https://github.com/andrea-ragalzi/chtl-lost-builder)
 
 - 📫 How to reach me **andrea.ragalzi.code@gmail.com**
 
