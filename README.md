@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrea Ragalzi</h1>
-<h3 align="center">Software & Web Developer</h3>
+<h3 align="center">Full Stack Web Developer | Python & React</h3>
 
 - 🔭 I’m currently working on [CHTL: The Lost Builder](https://github.com/andrea-ragalzi/chtl-lost-builder)
 
