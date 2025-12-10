@@ -2,6 +2,8 @@
 <h3 align="center">Full Stack Web Developer | Python & React</h3>
 
 - 🔭 I’m currently working on [Document Intelligent Hub](https://github.com/andrea-ragalzi/document-intelligent-hub)
+  
+- 🦖 **Install my VS Code theme here:** [Jurassic Park Theme](https://marketplace.visualstudio.com/items?itemName=andrearagalzi.jurassic-park-theme)
 
 - 📫 How to reach me **andrea.ragalzi.code@gmail.com**
 
