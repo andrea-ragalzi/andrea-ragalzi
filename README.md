@@ -1,28 +1,42 @@
-<h1 align="center">Hi 👋, I'm Andrea Ragalzi</h1>
+<h1 align="center">Andrea Ragalzi</h1>
 
 <h3 align="center">Python Backend Engineer</h3>
 
 <p align="center">
-  Building APIs, integrations, and maintainable backend systems.
+  Turning complex problems into clear, maintainable systems.
 </p>
 
 <p align="center">
-  Recently relocated from Italy to Málaga, Spain.
+  Based in Málaga, Spain.
 </p>
 
-- 🔭 I’m currently working on [Document Intelligent Hub](https://github.com/andrea-ragalzi/document-intelligent-hub), an ongoing application for private document search and source-grounded question answering.
+<p align="center">
+  Curious and analytical developer with around five years of experience
+  building production software for insurance and industrial environments.
+</p>
 
-- 🦖 **Install my VS Code theme:** [Jurassic Park Theme](https://marketplace.visualstudio.com/items?itemName=andrearagalzi.jurassic-park-theme)
+---
 
-- 🌐 **Portfolio:** [andrea-ragalzi.github.io](https://andrea-ragalzi.github.io/)
+## 🔭 Current work
 
-- 💼 **LinkedIn:** [andrea-ragalzi](https://www.linkedin.com/in/andrea-ragalzi/)
+I’m currently building
+[Document Intelligent Hub](https://github.com/andrea-ragalzi/document-intelligent-hub),
+an ongoing application for searching private document collections and
+generating source-grounded answers.
 
-- 📫 **Email:** andrea.ragalzi.code@gmail.com
+The project started with a practical question:
 
-<h3 align="left">Current stack</h3>
+> How can private documents be made searchable without giving up control
+> over the data?
 
-<p align="left">
+I’m using it to deepen my work with Python, FastAPI, private document search,
+and applied RAG.
+
+## 🧰 Main technologies
+
+### Backend
+
+<p>
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
     alt="Python"
@@ -30,6 +44,7 @@
     width="42"
     height="42"
   />
+  &nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"
     alt="FastAPI"
@@ -37,6 +52,37 @@
     width="42"
     height="42"
   />
+  &nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+    alt="Java"
+    title="Java"
+    width="42"
+    height="42"
+  />
+  &nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
+    alt="Spring Boot"
+    title="Spring Boot"
+    width="42"
+    height="42"
+  />
+</p>
+
+Python · FastAPI · Java · Spring Boot
+
+### Frontend
+
+<p>
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
+    alt="Next.js"
+    title="Next.js"
+    width="42"
+    height="42"
+  />
+  &nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
     alt="React"
@@ -44,6 +90,7 @@
     width="42"
     height="42"
   />
+  &nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
     alt="TypeScript"
@@ -51,6 +98,13 @@
     width="42"
     height="42"
   />
+</p>
+
+Next.js · React · TypeScript
+
+### Data, testing and infrastructure
+
+<p>
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"
     alt="MongoDB"
@@ -58,6 +112,7 @@
     width="42"
     height="42"
   />
+  &nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
     alt="PostgreSQL"
@@ -65,6 +120,7 @@
     width="42"
     height="42"
   />
+  &nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"
     alt="Firebase"
@@ -72,6 +128,7 @@
     width="42"
     height="42"
   />
+  &nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
     alt="Docker"
@@ -79,6 +136,7 @@
     width="42"
     height="42"
   />
+  &nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg"
     alt="Pytest"
@@ -86,6 +144,7 @@
     width="42"
     height="42"
   />
+  &nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
     alt="Git"
@@ -93,6 +152,7 @@
     width="42"
     height="42"
   />
+  &nbsp;
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
     alt="Linux"
@@ -102,7 +162,18 @@
   />
 </p>
 
-<p>
-  Python · FastAPI · React · TypeScript · MongoDB · PostgreSQL · Firebase ·
-  Docker · Pytest · Git · Linux
-</p>
+MongoDB · PostgreSQL · Firebase · Docker · Pytest · Git · Linux
+
+## 🦖 Beyond the usual backend work
+
+I created a
+[Jurassic Park Theme for VS Code](https://marketplace.visualstudio.com/items?itemName=andrearagalzi.jurassic-park-theme).
+
+Outside software, I’m involved in animal-rights activism, calisthenics,
+and tabletop role-playing games.
+
+## 🌐 Find me
+
+- [Portfolio](https://andrea-ragalzi.github.io/)
+- [LinkedIn](https://www.linkedin.com/in/andrea-ragalzi/)
+- Email: **andrea.ragalzi.code@gmail.com**
