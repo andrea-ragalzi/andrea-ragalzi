@@ -1,19 +1,16 @@
 <h1 align="center">Hi 👋, I'm Andrea Ragalzi</h1>
 
-<h3 align="center">
-  Python Backend Engineer | FastAPI, APIs & Applied RAG
-</h3>
+<h3 align="center">Python Backend Engineer</h3>
+
+<p align="center">
+  Building APIs, integrations, and maintainable backend systems.
+</p>
 
 <p align="center">
   Recently relocated from Italy to Málaga, Spain.
 </p>
 
-<p align="center">
-  Curious and analytical developer who enjoys turning problems into clear,
-  maintainable systems through structured thinking and creative problem-solving.
-</p>
-
-- 🔭 I’m currently working on [Document Intelligent Hub](https://github.com/andrea-ragalzi/document-intelligent-hub), an ongoing RAG application for private document search and source-grounded question answering.
+- 🔭 I’m currently working on [Document Intelligent Hub](https://github.com/andrea-ragalzi/document-intelligent-hub), an ongoing application for private document search and source-grounded question answering.
 
 - 🦖 **Install my VS Code theme:** [Jurassic Park Theme](https://marketplace.visualstudio.com/items?itemName=andrearagalzi.jurassic-park-theme)
 
