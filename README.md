@@ -2,7 +2,7 @@
   <img
     width="100%"
     alt="Andrea Ragalzi — Python Backend Engineer"
-    src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&color=0:07120f,45:1d3a31,100:b8c1c8&fontColor=f0f6fc"
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&color=0:07120f,45:1d3a31,100:b8c1c8&text=Andrea%20Ragalzi&fontColor=f0f6fc&fontSize=44&fontAlignY=38&desc=Python%20Backend%20Engineer%20%C2%B7%20APIs%20%C2%B7%20RAG%20Systems&descAlignY=60&descSize=18&animation=fadeIn"
   />
 </p>
 
@@ -23,14 +23,6 @@
   Some are built by walking.</em>
 </p>
 
-<h1 align="center">
-  Andrea Ragalzi
-</h1>
-
-<h3 align="center">
-  Python Backend Engineer · APIs · Document Intelligence
-</h3>
-
 <p align="center">
   I build software that turns complex systems into paths people can follow.
 </p>
@@ -41,20 +33,20 @@
 </p>
 
 <p align="center">
-  📍 Málaga, Spain &nbsp;·&nbsp; 🇪🇺 EU citizen &nbsp;·&nbsp; 🌍 Open to international teams
+  Málaga, Spain &nbsp;·&nbsp; EU citizen &nbsp;·&nbsp; Open to international teams
 </p>
 
 <br>
 
-## 🧭 What I build
+## What I build
 
-| 🐍 Python backends | 🔎 RAG systems | 🌐 Full-stack products |
+| Python backends | RAG systems | Full-stack products |
 |:---|:---|:---|
 | Maintainable APIs, modular architecture and automated testing. | Retrieval pipelines that connect language models to private documents. | Complete applications, from backend services to accessible interfaces. |
 
 <br>
 
-## 🌫️ Featured path
+## Featured path
 
 ### Document Intelligent Hub
 
@@ -93,7 +85,7 @@
 
 <br>
 
-## 🌲 Other clearings
+## Other clearings
 
 <p align="center">
   <a href="https://github.com/andrea-ragalzi/quality-gate-tool">
@@ -115,7 +107,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧪 Quality Gate Tool</h3>
+      <h3>Quality Gate Tool</h3>
       <p>
         An interactive code-quality platform that turns static-analysis
         results into a visual, real-time experience.
@@ -126,7 +118,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🌱 Vegarden</h3>
+      <h3>Vegarden</h3>
       <p>
         A social blogging network designed around vegan philosophy,
         discussion and community.
@@ -145,7 +137,7 @@
 
 <br>
 
-## 🧰 Toolbox
+## Toolbox
 
 <p align="center">
   <img
@@ -165,9 +157,9 @@ MongoDB · PostgreSQL · Firebase · Docker · Pytest · Git · Linux
 
 <br>
 
-## 🎯 Current focus
+## Current focus
 
-| 🔍 Retrieval | 🛡️ Reliability | 🌍 Next step |
+| Retrieval | Reliability | Next step |
 |:---|:---|:---|
 | Improving RAG evaluation and retrieval quality. | Strengthening testing, security and tenant isolation. | Joining an international Python backend or full-stack team. |
 
@@ -176,17 +168,13 @@ MongoDB · PostgreSQL · Firebase · Docker · Pytest · Git · Linux
 ## Beyond the code
 
 <p align="center">
-  🌿 Vegan activism &nbsp;·&nbsp;
-  🇪🇸 Learning Spanish &nbsp;·&nbsp;
-  🤸 Calisthenics &nbsp;·&nbsp;
-  🎲 Dungeons & Dragons
+  Vegan activism &nbsp;·&nbsp;
+  Learning Spanish &nbsp;·&nbsp;
+  Calisthenics &nbsp;·&nbsp;
+  Dungeons & Dragons
 </p>
 
 <br>
-
-<p align="center">
-  <em>The path is not written. It is chosen — and then built.</em>
-</p>
 
 <p align="center">
   <img
