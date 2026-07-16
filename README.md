@@ -1,9 +1,15 @@
 <p align="center">
-  <img
-    width="100%"
-    alt="Silver Forest banner with Andrea Ragalzi’s name"
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&color=0:07120f,45:1d3a31,100:b8c1c8&text=Andrea%20Ragalzi&fontColor=f0f6fc&fontSize=46&fontAlignY=36&desc=Python%20Backend%20Engineer%20%C2%B7%20APIs%20%C2%B7%20RAG%20Systems&descAlignY=57&descSize=18"
-  />
+  <picture>
+    <source
+      media="(max-width: 600px)"
+      srcset="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&color=0:07120f,45:1d3a31,100:b8c1c8&text=Andrea%20Ragalzi&fontColor=f0f6fc&fontSize=64&fontAlignY=34&desc=Python%20Backend%20Engineer%20%C2%B7%20APIs%20%C2%B7%20RAG%20Systems&descAlignY=59&descSize=34"
+    />
+    <img
+      width="100%"
+      alt="Silver Forest banner: Andrea Ragalzi — Python Backend Engineer, APIs and RAG Systems"
+      src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&color=0:07120f,45:1d3a31,100:b8c1c8&text=Andrea%20Ragalzi&fontColor=f0f6fc&fontSize=46&fontAlignY=36&desc=Python%20Backend%20Engineer%20%C2%B7%20APIs%20%C2%B7%20RAG%20Systems&descAlignY=57&descSize=18"
+    />
+  </picture>
 </p>
 
 <p align="center">
@@ -40,9 +46,11 @@
 
 ## What I build
 
-| Python backends | RAG systems | Full-stack products |
-|:---|:---|:---|
-| Maintainable APIs, modular architecture and automated testing. | Retrieval pipelines that connect language models to private documents. | Complete applications, from backend services to accessible interfaces. |
+**Python backends** — Maintainable APIs, modular architecture and automated testing.
+
+**RAG systems** — Retrieval pipelines that connect language models to private documents.
+
+**Full-stack products** — Complete applications, from backend services to accessible interfaces.
 
 <br>
 
@@ -61,34 +69,19 @@
 
 <br>
 
-## Other clearings
+## Other paths
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/andrea-ragalzi/quality-gate-tool">Quality Gate Tool</a></h3>
-      <p>
-        An interactive code-quality platform that turns static-analysis
-        results into a visual, real-time experience.
-      </p>
-      <p>
-        <strong>Shows:</strong> FastAPI, Clean Architecture, WebSockets,
-        Python and TypeScript analysis, automated testing and Docker.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/andrea-ragalzi/vegarden">Vegarden</a></h3>
-      <p>
-        A social blogging network designed around vegan philosophy,
-        discussion and community.
-      </p>
-      <p>
-        <strong>Shows:</strong> product thinking, full-stack development
-        and technology built around personal values.
-      </p>
-    </td>
-  </tr>
-</table>
+### [Quality Gate Tool](https://github.com/andrea-ragalzi/quality-gate-tool)
+
+An interactive code-quality platform that turns static-analysis results into a visual, real-time experience.
+
+**Shows:** FastAPI, Clean Architecture, WebSockets, Python and TypeScript analysis, automated testing and Docker.
+
+### [Vegarden](https://github.com/andrea-ragalzi/vegarden)
+
+A social blogging network designed around vegan philosophy, discussion and community.
+
+**Shows:** product thinking, full-stack development and technology built around personal values.
 
 <p align="center">
   Creative side project: <a href="https://marketplace.visualstudio.com/items?itemName=andrearagalzi.jurassic-park-theme"><strong>Jurassic Park Theme</strong></a>, a VS Code theme inspired by the original film.
@@ -99,10 +92,16 @@
 ## Toolbox
 
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=py,fastapi,flask,java,spring,ts,react,nextjs,mongodb,aws,docker,git,linux&perline=7"
-    alt="Python, FastAPI, Flask, Java, Spring Boot, TypeScript, React, Next.js, MongoDB, AWS, Docker, Git and Linux"
-  />
+  <picture>
+    <source
+      media="(max-width: 600px)"
+      srcset="https://skillicons.dev/icons?i=py,fastapi,flask,java,spring,ts,react,nextjs,mongodb,aws,docker,git,linux&perline=5"
+    />
+    <img
+      src="https://skillicons.dev/icons?i=py,fastapi,flask,java,spring,ts,react,nextjs,mongodb,aws,docker,git,linux&perline=7"
+      alt="Technology toolbox: Python, FastAPI, Flask, Java, Spring Boot, TypeScript, React, Next.js, MongoDB, AWS, Docker, Git and Linux"
+    />
+  </picture>
 </p>
 
 **Backend**  
@@ -118,19 +117,21 @@ MongoDB · SQL · relational databases · Firebase · AWS Lambda · Docker · Py
 
 ## Current focus
 
-| Retrieval | Reliability | Next step |
-|:---|:---|:---|
-| Improving RAG evaluation and retrieval quality. | Strengthening testing, security and tenant isolation. | Joining an international Python backend team. |
+**Retrieval** — Improving RAG evaluation and retrieval quality.
+
+**Reliability** — Strengthening testing, security and tenant isolation.
+
+**Next step** — Joining an international Python backend team.
 
 <br>
 
 ## Beyond the code
 
 <p align="center">
-  Vegan activism &nbsp;·&nbsp;
-  Learning Spanish &nbsp;·&nbsp;
-  Calisthenics &nbsp;·&nbsp;
-  Dungeons & Dragons
+  🌱 Vegan activism &nbsp;·&nbsp;
+  🇪🇸 Learning Spanish &nbsp;·&nbsp;
+  🤸 Calisthenics &nbsp;·&nbsp;
+  🎲 Dungeons & Dragons
 </p>
 
 <br>
