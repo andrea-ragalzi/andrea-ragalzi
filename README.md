@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://andrearagalzi.netlify.app/">
+  <a href="https://andrea-ragalzi.github.io/">
     <img src="https://img.shields.io/badge/PORTFOLIO-1d3a31?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/andrea-ragalzi">
