@@ -1,37 +1,171 @@
-# Andrea Ragalzi
+<p align="center">
+  <img
+    width="100%"
+    alt="The Silver Forest — Andrea Ragalzi"
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&color=0:07120f,45:1d3a31,100:b8c1c8&text=The%20Silver%20Forest&fontColor=f0f6fc&fontSize=46&fontAlignY=38&desc=Andrea%20Ragalzi%20%C2%B7%20Python%20Backend%20%C2%B7%20RAG%20Systems&descAlignY=59&descSize=18&animation=fadeIn"
+  />
+</p>
 
-Full-stack developer focused on Python backends, RAG systems
-and document-intelligence applications.
+<p align="center">
+  <a href="https://andrearagalzi.netlify.app/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-1d3a31?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/andrea-ragalzi">
+    <img src="https://img.shields.io/badge/LINKEDIN-263f50?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:andrea.ragalzi.job@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-59666f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-[Portfolio] [LinkedIn] [Email]
+<h3 align="center">
+  I build software that turns complex systems into paths people can follow.
+</h3>
 
-## Featured project
+<p align="center">
+  Python backend developer with around five years of professional experience.<br>
+  Focused on APIs, RAG systems, document processing and full-stack applications.
+</p>
+
+<p align="center">
+  📍 Málaga, Spain &nbsp;·&nbsp; 🇪🇺 EU citizen &nbsp;·&nbsp; 🌍 Open to international teams
+</p>
+
+<br>
+
+## 🧭 What I build
+
+| 🐍 Python backends | 🔎 RAG systems | 🌐 Full-stack products |
+|:---|:---|:---|
+| Maintainable APIs, modular architecture and automated testing. | Retrieval pipelines that connect language models to private documents. | Complete applications, from backend services to accessible interfaces. |
+
+<br>
+
+## 🌫️ Featured path
 
 ### Document Intelligent Hub
-Full-stack multi-tenant RAG platform for uploading, retrieving
-and querying private document collections.
 
-- FastAPI, React, MongoDB and ChromaDB
-- Authentication and tenant isolation
-- Document ingestion and semantic retrieval
-- Background processing and API-first architecture
+> A full-stack RAG application for secure, semantic question answering over proprietary documents.
 
-[Repository] [Live demo] [Architecture]
+<p align="center">
+  <a href="https://github.com/andrea-ragalzi/document-intelligent-hub">
+    <img
+      width="70%"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=andrea-ragalzi&repo=document-intelligent-hub&theme=github_dark_dimmed&hide_border=true"
+      alt="Document Intelligent Hub repository"
+    />
+  </a>
+</p>
 
-## Other projects
+**What it demonstrates**
 
-| Project | What it demonstrates |
-|---|---|
-| my-fastapi-mongo | Reusable FastAPI and MongoDB architecture |
-| quality-gate-tool | Automated code-quality workflow |
-| fullstack-todo-boilerplate | Full-stack application structure |
+- Multi-tenant RAG architecture with metadata-based document isolation
+- PDF ingestion, semantic search and multi-query retrieval
+- Streaming conversations with short-term and summarized memory
+- Dockerized full-stack development and automated testing
 
-## Current focus
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-1d3a31?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/LangChain-263f50?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/ChromaDB-59666f?style=flat-square" alt="ChromaDB" />
+  <img src="https://img.shields.io/badge/Next.js-111820?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Docker-385466?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+</p>
 
-- Improving retrieval quality and evaluation
-- Strengthening production security and testing
-- Preparing for international Python/backend roles
+<p align="center">
+  <a href="https://github.com/andrea-ragalzi/document-intelligent-hub">
+    <strong>Explore the repository →</strong>
+  </a>
+</p>
 
-## Stack
+<br>
 
-Python · FastAPI · React · TypeScript · MongoDB · Docker · RAG
+## 🌲 Other clearings
+
+<p align="center">
+  <a href="https://github.com/andrea-ragalzi/quality-gate-tool">
+    <img
+      width="48%"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=andrea-ragalzi&repo=quality-gate-tool&theme=github_dark_dimmed&hide_border=true"
+      alt="Quality Gate Tool repository"
+    />
+  </a>
+  <a href="https://github.com/andrea-ragalzi/vegarden">
+    <img
+      width="48%"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=andrea-ragalzi&repo=vegarden&theme=github_dark_dimmed&hide_border=true"
+      alt="Vegarden repository"
+    />
+  </a>
+</p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧪 Quality Gate Tool</h3>
+      <p>
+        An interactive code-quality platform that turns static-analysis
+        results into a visual, real-time experience.
+      </p>
+      <p>
+        <strong>Shows:</strong> FastAPI, Clean Architecture, WebSockets,
+        Python and TypeScript analysis, automated testing and Docker.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌱 Vegarden</h3>
+      <p>
+        A social blogging network designed around vegan philosophy,
+        discussion and community.
+      </p>
+      <p>
+        <strong>Shows:</strong> product thinking, full-stack development
+        and technology built around personal values.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## 🧰 Toolbox
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=py,fastapi,ts,react,nextjs,mongodb,docker,git,linux&perline=9"
+    alt="Python, FastAPI, TypeScript, React, Next.js, MongoDB, Docker, Git and Linux"
+  />
+</p>
+
+<br>
+
+## 🎯 Current focus
+
+| 🔍 Retrieval | 🛡️ Reliability | 🌍 Next step |
+|:---|:---|:---|
+| Improving RAG evaluation and retrieval quality. | Strengthening testing, security and tenant isolation. | Joining an international Python backend or full-stack team. |
+
+<br>
+
+## Beyond the code
+
+<p align="center">
+  🌿 Vegan activism &nbsp;·&nbsp;
+  🇪🇸 Learning Spanish &nbsp;·&nbsp;
+  🤸 Calisthenics &nbsp;·&nbsp;
+  🎲 Dungeons & Dragons
+</p>
+
+<br>
+
+<p align="center">
+  <em>The path is not written. It is chosen — and then built.</em>
+</p>
+
+<p align="center">
+  <img
+    width="100%"
+    alt=""
+    src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:07120f,45:1d3a31,100:b8c1c8"
+  />
+</p>
