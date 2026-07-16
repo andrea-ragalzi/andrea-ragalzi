@@ -24,16 +24,17 @@
 </p>
 
 <p align="center">
-  I build software that turns complex systems into paths people can follow.
+  Python Backend Engineer with around five years of experience building APIs,<br>
+  automation systems and software for industrial and insurance environments.
 </p>
 
 <p align="center">
-  Around five years of professional experience building APIs,<br>
-  document-processing systems and full-stack applications.
+  Currently developing Document Intelligent Hub, an independent full-stack RAG project<br>
+  focused on document processing, retrieval and conversational context.
 </p>
 
 <p align="center">
-  Málaga, Spain &nbsp;·&nbsp; EU citizen &nbsp;·&nbsp; Open to international teams
+  📍 Málaga, Spain &nbsp;·&nbsp; 🇪🇺 EU Citizen &nbsp;·&nbsp; 🌍 Open to international teams
 </p>
 
 <br>
@@ -141,19 +142,19 @@
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=py,fastapi,ts,react,nextjs,mongodb,docker,git,linux&perline=9"
-    alt="Python, FastAPI, TypeScript, React, Next.js, MongoDB, Docker, Git and Linux"
+    src="https://skillicons.dev/icons?i=py,fastapi,flask,java,spring,ts,react,nextjs,mongodb,aws,docker,git,linux&perline=7"
+    alt="Python, FastAPI, Flask, Java, Spring Boot, TypeScript, React, Next.js, MongoDB, AWS, Docker, Git and Linux"
   />
 </p>
 
 **Backend**  
-Python · FastAPI · Java · Spring Boot
+Python · FastAPI · Flask · Java · Spring Boot
 
 **Interfaces**  
 Next.js · React · TypeScript
 
 **Data & delivery**  
-MongoDB · PostgreSQL · Firebase · Docker · Pytest · Git · Linux
+MongoDB · SQL · relational databases · Firebase · AWS Lambda · Docker · Pytest · Git · Linux
 
 <br>
 
@@ -161,7 +162,7 @@ MongoDB · PostgreSQL · Firebase · Docker · Pytest · Git · Linux
 
 | Retrieval | Reliability | Next step |
 |:---|:---|:---|
-| Improving RAG evaluation and retrieval quality. | Strengthening testing, security and tenant isolation. | Joining an international Python backend or full-stack team. |
+| Improving RAG evaluation and retrieval quality. | Strengthening testing, security and tenant isolation. | Joining an international Python backend team. |
 
 <br>
 
@@ -183,3 +184,4 @@ MongoDB · PostgreSQL · Firebase · Docker · Pytest · Git · Linux
     src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:07120f,45:1d3a31,100:b8c1c8"
   />
 </p>
+
