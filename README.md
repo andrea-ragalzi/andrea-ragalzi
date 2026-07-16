@@ -1,20 +1,24 @@
 <p align="center">
   <img
     width="100%"
-    alt="Andrea Ragalzi — Python Backend Engineer"
-    src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&color=0:07120f,45:1d3a31,100:b8c1c8&text=Andrea%20Ragalzi&fontColor=f0f6fc&fontSize=44&fontAlignY=38&desc=Python%20Backend%20Engineer%20%C2%B7%20APIs%20%C2%B7%20RAG%20Systems&descAlignY=60&descSize=18&animation=fadeIn"
+    alt="Silver Forest banner with Andrea Ragalzi’s name"
+    src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&color=0:07120f,45:1d3a31,100:b8c1c8&text=Andrea%20Ragalzi&fontColor=f0f6fc&fontSize=48&fontAlignY=40"
   />
 </p>
 
+<h3 align="center">
+  Python Backend Engineer · APIs · RAG Systems
+</h3>
+
 <p align="center">
   <a href="https://andrea-ragalzi.github.io/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-1d3a31?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-1d3a31?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Open Andrea Ragalzi’s portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/andrea-ragalzi/">
-    <img src="https://img.shields.io/badge/LINKEDIN-263f50?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-263f50?style=for-the-badge&logo=linkedin&logoColor=white" alt="Open Andrea Ragalzi’s LinkedIn profile" />
   </a>
   <a href="mailto:andrea.ragalzi.job@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-59666f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/EMAIL-59666f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Andrea Ragalzi" />
   </a>
 </p>
 
@@ -29,8 +33,7 @@
 </p>
 
 <p align="center">
-  Currently developing Document Intelligent Hub, an independent full-stack RAG project<br>
-  focused on document processing, retrieval and conversational context.
+  Currently developing <a href="https://github.com/andrea-ragalzi/document-intelligent-hub">Document Intelligent Hub</a>, an independent RAG project focused on document processing, retrieval and conversational context.
 </p>
 
 <p align="center">
@@ -56,9 +59,8 @@
 <p align="center">
   <a href="https://github.com/andrea-ragalzi/document-intelligent-hub">
     <img
-      width="70%"
       src="https://github-readme-stats.vercel.app/api/pin/?username=andrea-ragalzi&repo=document-intelligent-hub&theme=github_dark_dimmed&hide_border=true"
-      alt="Document Intelligent Hub repository"
+      alt="Repository card for Document Intelligent Hub"
     />
   </a>
 </p>
@@ -91,16 +93,14 @@
 <p align="center">
   <a href="https://github.com/andrea-ragalzi/quality-gate-tool">
     <img
-      width="48%"
       src="https://github-readme-stats.vercel.app/api/pin/?username=andrea-ragalzi&repo=quality-gate-tool&theme=github_dark_dimmed&hide_border=true"
-      alt="Quality Gate Tool repository"
+      alt="Repository card for Quality Gate Tool"
     />
   </a>
   <a href="https://github.com/andrea-ragalzi/vegarden">
     <img
-      width="48%"
       src="https://github-readme-stats.vercel.app/api/pin/?username=andrea-ragalzi&repo=vegarden&theme=github_dark_dimmed&hide_border=true"
-      alt="Vegarden repository"
+      alt="Repository card for Vegarden"
     />
   </a>
 </p>
@@ -184,4 +184,3 @@ MongoDB · SQL · relational databases · Firebase · AWS Lambda · Docker · Py
     src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:07120f,45:1d3a31,100:b8c1c8"
   />
 </p>
-
