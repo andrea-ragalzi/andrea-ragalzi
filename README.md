@@ -10,7 +10,7 @@
   <a href="https://andrea-ragalzi.github.io/">
     <img src="https://img.shields.io/badge/PORTFOLIO-1d3a31?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/andrea-ragalzi">
+  <a href="https://www.linkedin.com/in/andrea-ragalzi/">
     <img src="https://img.shields.io/badge/LINKEDIN-263f50?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:andrea.ragalzi.job@gmail.com">
@@ -28,7 +28,7 @@
 </h1>
 
 <h3 align="center">
-  Python Backend Engineer · RAG Systems · Full-Stack Development
+  Python Backend Engineer · APIs · Document Intelligence
 </h3>
 
 <p align="center">
@@ -58,7 +58,7 @@
 
 ### Document Intelligent Hub
 
-> A full-stack RAG application for secure, semantic question answering over proprietary documents.
+> A full-stack RAG application for semantic question answering over private document collections.
 
 <p align="center">
   <a href="https://github.com/andrea-ragalzi/document-intelligent-hub">
@@ -72,7 +72,7 @@
 
 **What it demonstrates**
 
-- Multi-tenant RAG architecture with metadata-based document isolation
+- Metadata-based document isolation for multi-tenant scenarios
 - PDF ingestion, semantic search and multi-query retrieval
 - Streaming conversations with short-term and summarized memory
 - Dockerized full-stack development and automated testing
@@ -139,6 +139,10 @@
   </tr>
 </table>
 
+<p align="center">
+  Creative side project: <a href="https://marketplace.visualstudio.com/items?itemName=andrearagalzi.jurassic-park-theme"><strong>Jurassic Park Theme</strong></a>, a VS Code theme inspired by the original film.
+</p>
+
 <br>
 
 ## 🧰 Toolbox
@@ -149,6 +153,15 @@
     alt="Python, FastAPI, TypeScript, React, Next.js, MongoDB, Docker, Git and Linux"
   />
 </p>
+
+**Backend**  
+Python · FastAPI · Java · Spring Boot
+
+**Interfaces**  
+Next.js · React · TypeScript
+
+**Data & delivery**  
+MongoDB · PostgreSQL · Firebase · Docker · Pytest · Git · Linux
 
 <br>
 
