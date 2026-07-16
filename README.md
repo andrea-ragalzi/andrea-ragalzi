@@ -2,13 +2,9 @@
   <img
     width="100%"
     alt="Silver Forest banner with Andrea Ragalzi’s name"
-    src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&color=0:07120f,45:1d3a31,100:b8c1c8&text=Andrea%20Ragalzi&fontColor=f0f6fc&fontSize=48&fontAlignY=40"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&color=0:07120f,45:1d3a31,100:b8c1c8&text=Andrea%20Ragalzi&fontColor=f0f6fc&fontSize=46&fontAlignY=36&desc=Python%20Backend%20Engineer%20%C2%B7%20APIs%20%C2%B7%20RAG%20Systems&descAlignY=57&descSize=18"
   />
 </p>
-
-<h3 align="center">
-  Python Backend Engineer · APIs · RAG Systems
-</h3>
 
 <p align="center">
   <a href="https://andrea-ragalzi.github.io/">
@@ -52,18 +48,9 @@
 
 ## Featured path
 
-### Document Intelligent Hub
+### [Document Intelligent Hub](https://github.com/andrea-ragalzi/document-intelligent-hub)
 
 > A full-stack RAG application for semantic question answering over private document collections.
-
-<p align="center">
-  <a href="https://github.com/andrea-ragalzi/document-intelligent-hub">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=andrea-ragalzi&repo=document-intelligent-hub&theme=github_dark_dimmed&hide_border=true"
-      alt="Repository card for Document Intelligent Hub"
-    />
-  </a>
-</p>
 
 **What it demonstrates**
 
@@ -72,43 +59,14 @@
 - Streaming conversations with short-term and summarized memory
 - Dockerized full-stack development and automated testing
 
-<p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-1d3a31?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/LangChain-263f50?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/ChromaDB-59666f?style=flat-square" alt="ChromaDB" />
-  <img src="https://img.shields.io/badge/Next.js-111820?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Docker-385466?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/andrea-ragalzi/document-intelligent-hub">
-    <strong>Explore the repository →</strong>
-  </a>
-</p>
-
 <br>
 
 ## Other clearings
 
-<p align="center">
-  <a href="https://github.com/andrea-ragalzi/quality-gate-tool">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=andrea-ragalzi&repo=quality-gate-tool&theme=github_dark_dimmed&hide_border=true"
-      alt="Repository card for Quality Gate Tool"
-    />
-  </a>
-  <a href="https://github.com/andrea-ragalzi/vegarden">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=andrea-ragalzi&repo=vegarden&theme=github_dark_dimmed&hide_border=true"
-      alt="Repository card for Vegarden"
-    />
-  </a>
-</p>
-
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Quality Gate Tool</h3>
+      <h3><a href="https://github.com/andrea-ragalzi/quality-gate-tool">Quality Gate Tool</a></h3>
       <p>
         An interactive code-quality platform that turns static-analysis
         results into a visual, real-time experience.
@@ -119,7 +77,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>Vegarden</h3>
+      <h3><a href="https://github.com/andrea-ragalzi/vegarden">Vegarden</a></h3>
       <p>
         A social blogging network designed around vegan philosophy,
         discussion and community.
