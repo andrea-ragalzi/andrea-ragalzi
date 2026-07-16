@@ -7,10 +7,6 @@
 </p>
 
 <p align="center">
-  <strong>Python Backend Engineer · APIs · RAG Systems</strong>
-</p>
-
-<p align="center">
   <a href="https://andrea-ragalzi.github.io/">
     <img src="https://img.shields.io/badge/PORTFOLIO-1d3a31?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Open Andrea Ragalzi’s portfolio" />
   </a>
