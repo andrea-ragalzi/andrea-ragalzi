@@ -1,8 +1,8 @@
 <p align="center">
   <img
     width="100%"
-    alt="The Silver Forest — Andrea Ragalzi"
-    src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&color=0:07120f,45:1d3a31,100:b8c1c8&text=The%20Silver%20Forest&fontColor=f0f6fc&fontSize=46&fontAlignY=38&desc=Andrea%20Ragalzi%20%C2%B7%20Python%20Backend%20%C2%B7%20RAG%20Systems&descAlignY=59&descSize=18&animation=fadeIn"
+    alt="Andrea Ragalzi — Python Backend Engineer"
+    src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&color=0:07120f,45:1d3a31,100:b8c1c8&fontColor=f0f6fc"
   />
 </p>
 
@@ -18,13 +18,26 @@
   </a>
 </p>
 
+<p align="center">
+  <em>Not every path is fully visible.<br>
+  Some are built by walking.</em>
+</p>
+
+<h1 align="center">
+  Andrea Ragalzi
+</h1>
+
 <h3 align="center">
-  I build software that turns complex systems into paths people can follow.
+  Python Backend Engineer · RAG Systems · Full-Stack Development
 </h3>
 
 <p align="center">
-  Python backend developer with around five years of professional experience.<br>
-  Focused on APIs, RAG systems, document processing and full-stack applications.
+  I build software that turns complex systems into paths people can follow.
+</p>
+
+<p align="center">
+  Around five years of professional experience building APIs,<br>
+  document-processing systems and full-stack applications.
 </p>
 
 <p align="center">
