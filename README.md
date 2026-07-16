@@ -1,18 +1,14 @@
 <p align="center">
   <img
     width="100%"
-    alt="Abstract Silver Forest banner in dark green and silver tones"
-    src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&color=0:07120f,45:1d3a31,100:b8c1c8"
+    alt="Andrea Ragalzi — Python Backend Engineer · APIs · RAG Systems"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&color=0:07120f,45:1d3a31,100:b8c1c8&text=Andrea%20Ragalzi&fontColor=f0f6fc&fontSize=46&fontAlignY=36&desc=Python%20Backend%20Engineer%20%C2%B7%20APIs%20%C2%B7%20RAG%20Systems&descAlignY=57&descSize=18"
   />
 </p>
 
-<h1 align="center">
-  Andrea Ragalzi
-</h1>
-
-<h3 align="center">
-  Python Backend Engineer · APIs · RAG Systems
-</h3>
+<p align="center">
+  <strong>Python Backend Engineer · APIs · RAG Systems</strong>
+</p>
 
 <p align="center">
   <a href="https://andrea-ragalzi.github.io/">
