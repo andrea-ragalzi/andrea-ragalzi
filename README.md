@@ -1,16 +1,18 @@
 <p align="center">
-  <picture>
-    <source
-      media="(max-width: 600px)"
-      srcset="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&color=0:07120f,45:1d3a31,100:b8c1c8&text=Andrea%20Ragalzi&fontColor=f0f6fc&fontSize=64&fontAlignY=34&desc=Python%20Backend%20Engineer%20%C2%B7%20APIs%20%C2%B7%20RAG%20Systems&descAlignY=59&descSize=34"
-    />
-    <img
-      width="100%"
-      alt="Silver Forest banner: Andrea Ragalzi — Python Backend Engineer, APIs and RAG Systems"
-      src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&color=0:07120f,45:1d3a31,100:b8c1c8&text=Andrea%20Ragalzi&fontColor=f0f6fc&fontSize=46&fontAlignY=36&desc=Python%20Backend%20Engineer%20%C2%B7%20APIs%20%C2%B7%20RAG%20Systems&descAlignY=57&descSize=18"
-    />
-  </picture>
+  <img
+    width="100%"
+    alt="Abstract Silver Forest banner in dark green and silver tones"
+    src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&color=0:07120f,45:1d3a31,100:b8c1c8"
+  />
 </p>
+
+<h1 align="center">
+  Andrea Ragalzi
+</h1>
+
+<h3 align="center">
+  Python Backend Engineer · APIs · RAG Systems
+</h3>
 
 <p align="center">
   <a href="https://andrea-ragalzi.github.io/">
