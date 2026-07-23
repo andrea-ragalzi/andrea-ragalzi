@@ -1,8 +1,8 @@
 <p align="center">
   <img
     width="100%"
-    alt="Andrea Ragalzi — Python Backend Engineer · APIs · RAG Systems"
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&color=0:07120f,45:1d3a31,100:b8c1c8&text=Andrea%20Ragalzi&fontColor=f0f6fc&fontSize=46&fontAlignY=36&desc=Python%20Backend%20Engineer%20%C2%B7%20APIs%20%C2%B7%20RAG%20Systems&descAlignY=57&descSize=18"
+    alt="Andrea Ragalzi — Python Backend Engineer · REST APIs · Integrations · RAG"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&color=0:07120f,45:1d3a31,100:b8c1c8&text=Andrea%20Ragalzi&fontColor=f0f6fc&fontSize=46&fontAlignY=36&desc=Python%20Backend%20Engineer%20%C2%B7%20REST%20APIs%20%C2%B7%20Integrations%20%C2%B7%20RAG&descAlignY=57&descSize=17"
   />
 </p>
 
@@ -24,27 +24,28 @@
 </p>
 
 <p align="center">
-  Python Backend Engineer with around five years of experience building APIs,<br>
-  automation systems and software for industrial and insurance environments.
+  Python Backend Engineer with five years of experience across industrial automation<br>
+  and enterprise insurance software, focused on REST APIs, integrations,<br>
+  testing and maintainable backend services.
 </p>
 
 <p align="center">
-  Currently developing <a href="https://github.com/andrea-ragalzi/document-intelligent-hub">Document Intelligent Hub</a>, an independent RAG project focused on document processing, retrieval and conversational context.
+  Currently developing <a href="https://github.com/andrea-ragalzi/document-intelligent-hub">Document Intelligent Hub</a>, a RAG application built with FastAPI and vector retrieval for private document search and source-grounded answers.
 </p>
 
 <p align="center">
-  📍 Málaga, Spain &nbsp;·&nbsp; 🇪🇺 EU Citizen &nbsp;·&nbsp; 🌍 Open to international teams
+  📍 Málaga, Spain &nbsp;·&nbsp; 🇪🇺 EU Citizen &nbsp;·&nbsp; 🌍 Remote across Europe or hybrid in Málaga
 </p>
 
 <br>
 
 ## What I build
 
-**Python backends** — Maintainable APIs, modular architecture and automated testing.
+**Python backends** — REST APIs, business logic, integrations and automated testing.
 
-**RAG systems** — Retrieval pipelines that connect language models to private documents.
+**RAG systems** — Document ingestion, vector retrieval, conversational context and source-grounded answers.
 
-**Full-stack products** — Complete applications, from backend services to accessible interfaces.
+**Maintainable software** — Clear data flows, modular services and reliable backend behaviour.
 
 <br>
 
@@ -52,14 +53,14 @@
 
 ### [Document Intelligent Hub](https://github.com/andrea-ragalzi/document-intelligent-hub)
 
-> A full-stack RAG application for semantic question answering over private document collections.
+> A full-stack RAG application for uploading, processing and querying private document collections with source-grounded answers.
 
 **What it demonstrates**
 
-- Metadata-based document isolation for multi-tenant scenarios
-- PDF ingestion, semantic search and multi-query retrieval
-- Streaming conversations with short-term and summarized memory
-- Dockerized full-stack development and automated testing
+* FastAPI pipeline for document ingestion, vector retrieval, conversational context and answer generation
+* ChromaDB and LangChain integration for retrieval-based document search
+* Next.js interface with Firebase authentication
+* User-scoped access to documents and conversations
 
 <br>
 
@@ -73,7 +74,7 @@ An interactive code-quality platform that turns static-analysis results into a v
 
 ### [Vegarden](https://github.com/andrea-ragalzi/vegarden)
 
-A social blogging network designed around vegan philosophy, discussion and community.
+A social publishing platform designed around vegan advocacy, discussion and community.
 
 **Shows:** product thinking, full-stack development and technology built around personal values.
 
@@ -89,43 +90,46 @@ A social blogging network designed around vegan philosophy, discussion and commu
   <picture>
     <source
       media="(max-width: 600px)"
-      srcset="https://skillicons.dev/icons?i=py,fastapi,flask,java,spring,ts,react,nextjs,mongodb,aws,docker,git,linux&perline=5"
+      srcset="https://skillicons.dev/icons?i=py,fastapi,flask,postgres,mongodb,aws,docker,git,linux,java,spring,ts,react,nextjs&perline=5"
     />
     <img
-      src="https://skillicons.dev/icons?i=py,fastapi,flask,java,spring,ts,react,nextjs,mongodb,aws,docker,git,linux&perline=7"
-      alt="Technology toolbox: Python, FastAPI, Flask, Java, Spring Boot, TypeScript, React, Next.js, MongoDB, AWS, Docker, Git and Linux"
+      src="https://skillicons.dev/icons?i=py,fastapi,flask,postgres,mongodb,aws,docker,git,linux,java,spring,ts,react,nextjs&perline=7"
+      alt="Technology toolbox: Python, FastAPI, Flask, PostgreSQL, MongoDB, AWS, Docker, Git, Linux, Java, Spring Boot, TypeScript, React and Next.js"
     />
   </picture>
 </p>
 
-**Backend**  
-Python · FastAPI · Flask · Java · Spring Boot
+**Backend**
+Python · FastAPI · Flask · REST APIs · Pydantic · AWS Lambda · Java · Spring Boot
 
-**Interfaces**  
-Next.js · React · TypeScript
+**Data & RAG**
+SQL · PostgreSQL · MongoDB · ChromaDB · LangChain · retrieval pipelines
 
-**Data & delivery**  
-MongoDB · SQL · relational databases · Firebase · AWS Lambda · Docker · Pytest · Git · Linux
+**Testing & tools**
+pytest · JUnit · Git · Docker · Linux · Bash
+
+**Frontend & services**
+Next.js · React · TypeScript · HTML · CSS · Tailwind CSS · Firebase
 
 <br>
 
 ## Current focus
 
-**Retrieval** — Improving RAG evaluation and retrieval quality.
+**Backend engineering** — Strengthening API design, integrations and automated testing.
 
-**Reliability** — Strengthening testing, security and tenant isolation.
+**Applied RAG** — Improving document retrieval and source-grounded answers.
 
-**Next step** — Joining an international Python backend team.
+**Next step** — Joining an international Python backend team, remotely across Europe or hybrid in Málaga.
 
 <br>
 
 ## Beyond the code
 
 <p align="center">
-  🌱 Vegan activism &nbsp;·&nbsp;
-  🇪🇸 Learning Spanish &nbsp;·&nbsp;
+  🌱 Animal-rights activism &nbsp;·&nbsp;
+  🇪🇸 Spanish B2 &nbsp;·&nbsp;
   🤸 Calisthenics &nbsp;·&nbsp;
-  🎲 Dungeons & Dragons
+  🎲 Tabletop role-playing games
 </p>
 
 <br>
