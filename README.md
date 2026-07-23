@@ -68,15 +68,15 @@
 
 ### [Quality Gate Tool](https://github.com/andrea-ragalzi/quality-gate-tool)
 
-An interactive code-quality platform that turns static-analysis results into a visual, real-time experience.
+An interactive code-quality platform that visualises static-analysis results and streams updates while files are analysed or modified.
 
-**Shows:** FastAPI, Clean Architecture, WebSockets, Python and TypeScript analysis, automated testing and Docker.
+**Shows:** FastAPI, hexagonal architecture, WebSockets, live file watching, Python and TypeScript analysis, automated testing and Docker.
 
 ### [Vegarden](https://github.com/andrea-ragalzi/vegarden)
 
-A social publishing platform designed around vegan advocacy, discussion and community.
+A full-stack social publishing platform for vegan advocacy, with user profiles, article workflows, reactions, saved content and user following.
 
-**Shows:** product thinking, full-stack development and technology built around personal values.
+**Shows:** Spring Boot REST APIs, JWT authentication, PostgreSQL, React, TypeScript, Redux and end-to-end product development.
 
 <p align="center">
   Creative side project: <a href="https://marketplace.visualstudio.com/items?itemName=andrearagalzi.jurassic-park-theme"><strong>Jurassic Park Theme</strong></a>, a VS Code theme inspired by the original film.
