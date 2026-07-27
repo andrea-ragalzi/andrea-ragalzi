@@ -127,7 +127,7 @@ Next.js · React · TypeScript · HTML · CSS · Tailwind CSS · Firebase
 
 <p align="center">
   🌱 Animal-rights activism &nbsp;·&nbsp;
-  🇪🇸 Spanish B2 &nbsp;·&nbsp;
+  🇪🇸 Learning Spanish &nbsp;·&nbsp;
   🤸 Calisthenics &nbsp;·&nbsp;
   🎲 Tabletop role-playing games
 </p>
