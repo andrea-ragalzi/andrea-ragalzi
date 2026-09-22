@@ -26,11 +26,16 @@
 <p align="center">
   Python Backend Engineer with five years of experience across industrial automation<br>
   and enterprise insurance software, focused on REST APIs, integrations,<br>
-  testing and maintainable backend services.
+  automated testing and maintainable backend services.
 </p>
 
 <p align="center">
-  Currently developing <a href="https://github.com/andrea-ragalzi/document-intelligent-hub">Document Intelligent Hub</a>, a RAG application built with FastAPI and vector retrieval for private document search and source-grounded answers.
+  Currently building <strong>Document Intelligent Hub</strong>, a backend-heavy RAG application
+  built with FastAPI for private document search and source-grounded answers.
+</p>
+
+<p align="center">
+  <a href="https://document-intelligent-hub.vercel.app"><strong>Try the demo ↗</strong></a>
 </p>
 
 <p align="center">
@@ -43,28 +48,34 @@
 
 **Python backends** — REST APIs, business logic, integrations and automated testing.
 
-**RAG systems** — Document ingestion, vector retrieval, conversational context and source-grounded answers.
+**Maintainable services** — Clear boundaries, predictable data flows and testable backend behaviour.
 
-**Maintainable software** — Clear data flows, modular services and reliable backend behaviour.
+**Applied RAG systems** — Document ingestion, retrieval pipelines, conversational context and source-grounded answers.
 
 <br>
 
-## Featured path
+## Featured project
 
 ### [Document Intelligent Hub](https://github.com/andrea-ragalzi/document-intelligent-hub)
 
-> A full-stack RAG application for uploading, processing and querying private document collections with source-grounded answers.
+> A backend-heavy RAG application for uploading, processing and querying private document collections with source-grounded answers.
+
+<p>
+  <a href="https://document-intelligent-hub.vercel.app"><strong>Try the demo ↗</strong></a>
+</p>
 
 **What it demonstrates**
 
-* FastAPI pipeline for document ingestion, vector retrieval, conversational context and answer generation
-* ChromaDB and LangChain integration for retrieval-based document search
-* Next.js interface with Firebase authentication
-* User-scoped access to documents and conversations
+* FastAPI REST API for authenticated document ingestion, retrieval and question answering
+* Service-oriented backend structure with clear application and infrastructure boundaries
+* Firebase authentication and user-scoped document isolation
+* ChromaDB, LangChain and OpenAI integrations for the RAG pipeline
+* Automated backend testing with pytest
+* Next.js client for document management and chat
 
 <br>
 
-## Other paths
+## Other projects
 
 ### [Quality Gate Tool](https://github.com/andrea-ragalzi/quality-gate-tool)
 
@@ -115,9 +126,9 @@ Next.js · React · TypeScript · HTML · CSS · Tailwind CSS · Firebase
 
 ## Current focus
 
-**Backend engineering** — Strengthening API design, integrations and automated testing.
+**Python backend engineering** — REST APIs, integrations, automated testing and maintainable services.
 
-**Applied RAG** — Improving document retrieval and source-grounded answers.
+**Applied RAG** — Improving retrieval reliability, document processing and source-grounded answers.
 
 **Next step** — Joining an international Python backend team, remotely across Europe or hybrid in Málaga.
 
