@@ -1,8 +1,8 @@
 <p align="center">
   <img
     width="100%"
-    alt="Andrea Ragalzi — Software Engineer · Backend-focused · Python/FastAPI · Java/Spring Boot · Next.js"
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&color=0:07120f,45:1d3a31,100:b8c1c8&text=Andrea%20Ragalzi&fontColor=f0f6fc&fontSize=46&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Backend-focused%20%C2%B7%20Python%2FFastAPI%20%C2%B7%20Java%2FSpring%20Boot%20%C2%B7%20Next.js&descAlignY=57&descSize=15"
+    alt="Andrea Ragalzi — Backend Engineer · Python · REST APIs · System Integrations"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&color=0:07120f,45:1d3a31,100:b8c1c8&text=Andrea%20Ragalzi&fontColor=f0f6fc&fontSize=46&fontAlignY=36&desc=Backend%20Engineer%20%C2%B7%20Python%20%C2%B7%20REST%20APIs%20%C2%B7%20System%20Integrations&descAlignY=57&descSize=15"
   />
 </p>
 
@@ -24,19 +24,20 @@
 </p>
 
 <p align="center">
-  Software Engineer with five years of experience across industrial automation<br>
-  and enterprise insurance systems, focused on backend development,<br>
+  Software Engineer with five years of total software development experience<br>
+  across industrial automation and insurance, focused on Python backend development,<br>
   REST APIs, integrations, automated testing and maintainable services.
 </p>
 
 <p align="center">
-  Core background in <strong>Python backend development</strong> with FastAPI and Flask,<br>
-  complemented by Java/Spring Boot and current full-stack work with FastAPI and Next.js.
+  Professional experience with <strong>Python, AWS Lambda and Flask</strong>,<br>
+  including automated testing, system integrations and production support.<br>
+  Additional experience developing enterprise Java/Spring Boot applications.
 </p>
 
 <p align="center">
-  Currently building <strong>Document Intelligent Hub</strong>, a full-stack RAG application
-  for private document search and source-grounded answers.
+  Currently building <strong>Document Intelligent Hub</strong>, a personal RAG application<br>
+  with a FastAPI backend and Next.js frontend for document search and source-grounded answers.
 </p>
 
 <p align="center">
@@ -44,7 +45,7 @@
 </p>
 
 <p align="center">
-  📍 Málaga, Spain &nbsp;·&nbsp; 🇪🇺 EU Citizen &nbsp;·&nbsp; 🌍 Remote across Europe or hybrid in Málaga
+  📍 Málaga, Spain &nbsp;·&nbsp; 🇪🇺 EU Citizen &nbsp;·&nbsp; 🌍 Remote from Spain or hybrid in Málaga
 </p>
 
 <br>
@@ -63,7 +64,7 @@
 
 ### [Document Intelligent Hub](https://github.com/andrea-ragalzi/document-intelligent-hub)
 
-> A full-stack RAG application for uploading, processing and querying private document collections with source-grounded answers.
+> A personal full-stack RAG application for uploading, processing and querying documents with source-grounded answers.
 
 <p>
   <a href="https://document-intelligent-hub.vercel.app"><strong>Try the demo ↗</strong></a>
@@ -73,7 +74,7 @@
 
 * FastAPI REST API for authenticated document ingestion, retrieval and question answering
 * Service-oriented backend structure with clear application and infrastructure boundaries
-* Firebase authentication and user-scoped document isolation
+* Firebase authentication and user-scoped access to documents and conversations
 * ChromaDB, LangChain and OpenAI integrations for the RAG pipeline
 * Automated backend testing with pytest
 * Next.js client for document management and chat
@@ -116,16 +117,22 @@ A full-stack social publishing platform for vegan advocacy, with user profiles, 
 </p>
 
 **Backend**  
-Python · FastAPI · Flask · REST APIs · Pydantic · AWS Lambda · Java · Spring Boot
+Python · FastAPI · Flask · REST APIs · Pydantic
 
-**Data & RAG**  
-SQL · PostgreSQL · MongoDB · ChromaDB · LangChain · retrieval pipelines
+**Cloud & deployment**  
+AWS Lambda · AWS Step Functions · Amazon S3 · Amazon CloudWatch · Jenkins · Docker
+
+**Databases**  
+SQL · MySQL · Microsoft SQL Server · PostgreSQL · MongoDB
+
+**Applied RAG — personal project**  
+LangChain · ChromaDB · document ingestion · embeddings · vector retrieval · LLM integration
 
 **Testing & tools**  
-pytest · JUnit · Git · Docker · Linux · Bash
+pytest · JUnit · Git · Linux · Bash
 
-**Frontend & services**  
-Next.js · React · TypeScript · HTML · CSS · Tailwind CSS · Firebase
+**Additional technologies**  
+Java/Spring Boot · Next.js · React · TypeScript · HTML · CSS · Tailwind CSS · Firebase
 
 <br>
 
@@ -135,9 +142,9 @@ Next.js · React · TypeScript · HTML · CSS · Tailwind CSS · Firebase
 
 **Python backend** — FastAPI, Flask, API design and service-oriented backend architecture.
 
-**Applied RAG** — Improving retrieval reliability, document processing and source-grounded answers.
+**Applied RAG** — Document processing, retrieval and LLM integration through Document Intelligent Hub.
 
-**Next step** — Joining an international Software Engineering team, remotely across Europe or hybrid in Málaga.
+**Next step** — Joining an international team as a Backend Engineer or backend-focused Software Engineer, hybrid in Málaga or remote from Spain.
 
 <br>
 
