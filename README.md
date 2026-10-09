@@ -2,7 +2,7 @@
   <img
     width="100%"
     alt="Andrea Ragalzi — Python · REST APIs · System Integrations"
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&color=0:07120f,45:1d3a31,100:b8c1c8&text=Andrea%20Ragalzi&fontColor=f0f6fc&fontSize=46&fontAlignY=36&desc=Backend%20Engineer%20%C2%B7%20Python%20%C2%B7%20REST%20APIs%20%C2%B7%20System%20Integrations&descAlignY=57&descSize=15"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&color=0:07120f,45:1d3a31,100:b8c1c8&text=Andrea%20Ragalzi&fontColor=f0f6fc&fontSize=46&fontAlignY=36&desc=Python%20%C2%B7%20REST%20APIs%20%C2%B7%20System%20Integrations&descAlignY=57&descSize=15"
   />
 </p>
 
